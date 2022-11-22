@@ -6,6 +6,10 @@ Components:
 - Lemmatization
 - Named Entity Recognition (NER)
 
+Models used:
+- [en_core_web_lg](https://huggingface.co/spacy/en_core_web_lg)
+- [en_core_web_sm](https://huggingface.co/spacy/en_core_web_sm)
+
 ## Tokenization
 Split paragraphs and sentences into smaller units for easier processing. 
 

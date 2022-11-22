@@ -1,0 +1,3 @@
+spacy
+ipykernel
+jupyter
